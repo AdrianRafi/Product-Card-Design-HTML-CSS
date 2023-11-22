@@ -1,6 +1,6 @@
 # Product Card Design HTML-CSS
 
-### You can see my solution, live demo here: <a href="https://adrianrafi.github.io/Product-Card-Design-HTML-CSS/">Demo</a>
+### Live demo here: <a href="https://adrianrafi.github.io/Product-Card-Design-HTML-CSS/">Demo</a>
 <br>
 <br>
 
