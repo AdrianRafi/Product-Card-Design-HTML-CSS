@@ -1,4 +1,4 @@
-# Responsible Product Card Design HTML-CSS
+# Responsive Product Card Design HTML-CSS
 
 ### Live demo here: <a href="https://adrianrafi.github.io/Product-Card-Design-HTML-CSS/">Demo</a>
 <br>
